@@ -4,9 +4,9 @@ import pandas as pd
 import datetime
 import matplotlib.pyplot as plt
 
-st.set_page_config(page_title="记账系统 V7.5", layout="wide")
+st.set_page_config(page_title="钱袋袋", layout="wide")
 
-st.title("💰 记账系统 V7.5（时间筛选增强完整保留版）")
+st.title("💰 钱袋袋记账系统 ")
 
 DB = "money.db"
 
